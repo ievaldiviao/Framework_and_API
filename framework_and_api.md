@@ -1,4 +1,4 @@
-﻿# Framework
+# Framework
 En el desarrollo de software, un **framework** o **infraestructura digital**, es una estructura conceptual y tecnológica de soporte definido, normalmente con artefactos o módulos concretos de software, que puede servir de base para la organización y desarrollo de software. Típicamente, puede incluir soporte de programas, bibliotecas, y un lenguaje interpretado, entre otras herramientas, para así ayudar a desarrollar y unir los diferentes componentes de un proyecto.
 
 Representa una arquitectura de software que modela las relaciones generales de las entidades del dominio, y provee una estructura y una especial metodología de trabajo, la cual extiende o utiliza las aplicaciones del dominio.
@@ -14,12 +14,12 @@ Algunas características notables que se pueden observar:
 Para una aplicación web sencilla debemos establecer estos objetos:
 
 * Una base (MVC)
-..* Controlador: este debe ser capaz de manejar rutas, archivos, clases, métodos y funciones.
-..* Modelo: es como un script habitual en el servidor, solo que agrupado bajo un 'modelo' reutilizable.
-..* Vista: como incluyendo cualquier archivo en nuestra ejecución, muy simple.
+  * Controlador: este debe ser capaz de manejar rutas, archivos, clases, métodos y funciones.
+  * Modelo: es como un script habitual en el servidor, solo que agrupado bajo un 'modelo' reutilizable.
+  * Vista: como incluyendo cualquier archivo en nuestra ejecución, muy simple.
 * Un sistema
-..* Ruteador: con él podemos dividir nuestras peticiones sin tantas condicionales.
-..* Cargador
+  * Ruteador: con él podemos dividir nuestras peticiones sin tantas condicionales.
+  * Cargador
 
 
 # API (Application Programming Interface)
